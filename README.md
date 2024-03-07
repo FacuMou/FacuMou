@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @FacuMou
-- 🌱 I’m currently learning basic programming languages, and getting used to it.
+- 👋 I’m @FacuMou, a CS Major Student / junior dev at software engineering
+- 💡 Proefficient in C, and with a grasp of Python
+- 🌱 Currently learning Rust / Go / C++
 - 📫 How to reach me: you dont. :p jk
 
 <!---
