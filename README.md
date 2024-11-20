@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m @FacuMou, a CS Major Student from FAMAF / trainee dev at software engineering<br>💡 Proefficient in C<br>🌱 Currently learning Java & Python 
+👋 I’m @FacuMou, a CS Major Student from FAMAF / trainee dev at software engineering<br>💡 Proefficient in C<br>🌱 Currently learning Java, Python and React
 
 
 ## 🌐 Socials:
