@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m @FacuMou, a CS Major Student from FAMAF / trainee dev at software engineering<br>💡 Proefficient in C<br>🌱 Currently learning Java, Rust and GoLang
+👋 I’m @FacuMou, a CS Major Student from FAMAF / trainee dev at software engineering<br>💡 Proefficient in C<br>🌱 Currently learning Java and GoLang
 
 
 ## 🌐 Socials:
